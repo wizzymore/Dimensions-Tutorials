@@ -43,6 +43,10 @@ End While
 
 *Tests whether the response contains all specified answers, with or without additional answers*
 
+> '`*`'
+
+*Tests whether the specified categories intersect with any specified category list and returns the intersection or {} when none intersect*
+
 > `AnswerCount`
 
 *Returns the number of responses chosen*
